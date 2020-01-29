@@ -1,5 +1,5 @@
 # flutter_basic_auth
-![Demo](flutter_basic_auth_demo.gif)
+<img src="flutter_basic_auth_demo.gif" alt="Demo" height="500">
 
 ## Configure
 Please copy the `lib/config/app.example.dart` to `lib/config/app.dart` and modify with your environment settings.
