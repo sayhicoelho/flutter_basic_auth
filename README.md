@@ -1,6 +1,5 @@
 # flutter_basic_auth
-
-A new Flutter project.
+![Demo](flutter_basic_auth_demo.gif)
 
 ## Configure
 Please copy the `lib/config/app.example.dart` to `lib/config/app.dart` and modify with your environment settings.
