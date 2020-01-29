@@ -18,3 +18,6 @@ You must need an API to serve the authentication endpoints `/login` and `/me`.
 | /login   | POST   | { email, password } | {   user: {     id: 1,     name: 'Example',     email: 'example@example.com'   },   token: 'eyJ0eXAiOiJKV1Q...' } |   |
 | /me      | GET    | null                | {   user: {     id: 1,     name: 'Example',     email: 'example@example.com'   } }                                |   |
 |          |        |                     |                                                                                                                   |   |
+
+## License
+[MIT](LICENSE)
